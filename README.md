@@ -7,3 +7,10 @@ JavaScript gives you superpowers. If you already know Rails, then familiarity wi
 >Ruby engineers that know Angularjs get **20%** more interview requests.
 
 More importantly, this stuff can be super fun.
+
+
+##Instructions
+
+* clone the repo locally
+* cd into the directory
+* `open index.html`
