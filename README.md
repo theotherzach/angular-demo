@@ -14,8 +14,3 @@ More importantly, this stuff can be super fun.
 * clone the repo locally
 * cd into the directory
 * `open index.html`
-
-
-##Style Guide
-
-We'll be following John Papa's [style guide](https://github.com/johnpapa/angularjs-styleguide) except for when we are not.
